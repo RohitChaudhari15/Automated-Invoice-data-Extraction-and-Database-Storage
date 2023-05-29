@@ -1,0 +1,10 @@
+,Invoice No.,Billing date,Name,Mobile No.,Location,Total Bill,Mode of Payment
+0,0001,19/05/2023,ShubhamG,7774910157,Kolhapur,5500,Cash
+1,0002,19/05/2023,AnandSant,987654321,Amravati,7000,Card
+2,0003,18/05/2023,DineshBorole,9503363882,Jalgaon,8000,Card
+3,0004,18/05/2023,SurajPatil,8600266356,Kalyan,7333,Card
+4,0005,15/05/2023,SwarajSontakke,9112895842,Amravati,5555,Cash
+5,0006,15/05/2023,AnshalTripathi,91319224094,Bilai,9565,Card
+6,0007,15/05/2023,VivekHalpatrao,987321654,Kalyan,2565,Cash
+7,0008,21/05/2023,PramodHatture,9890908040,Solapur,3000,Cash
+8,0009,22/05/2023,AbhijeetDange,8806091540,Chandrapur,9888,Card
